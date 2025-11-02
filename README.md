@@ -18,9 +18,6 @@ It helps you track your **current balance, income, expenses, recent transactions
 ## 🖥️ Screenshot
 <img width="1909" height="931" alt="image" src="https://github.com/user-attachments/assets/ed24050b-c63e-4261-8a36-e60c38224152" />
 
-
-> Replace `screenshot.png` with an actual screenshot of your dashboard.
-
 ---
 
 ## ⚡ How to Use
