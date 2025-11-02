@@ -16,7 +16,7 @@ It helps you track your **current balance, income, expenses, recent transactions
 ---
 
 ## 🖥️ Screenshot
-<img width="1909" height="931" alt="image" src="https://github.com/user-attachments/assets/ed24050b-c63e-4261-8a36-e60c38224152" />
+<img width="1900" height="930" alt="image" src="https://github.com/user-attachments/assets/8a28e3f1-8267-4864-8f38-95d83846717d" />
 
 ---
 
