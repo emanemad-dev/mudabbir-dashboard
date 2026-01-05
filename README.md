@@ -15,8 +15,9 @@ It helps you track your **current balance, income, expenses, recent transactions
 
 ---
 
-## 🖥️ Screenshot
-<img width="1900" height="930" alt="image" src="https://github.com/user-attachments/assets/8a28e3f1-8267-4864-8f38-95d83846717d" />
+## 🔗 Live Demo
+👉(https://marvelous-nasturtium-357f31.netlify.app/)
+
 
 ---
 
